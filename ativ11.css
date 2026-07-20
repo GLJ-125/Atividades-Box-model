@@ -1,0 +1,32 @@
+.site{
+    background-color: #261C1A;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid blanchedalmond;
+}
+.menu{
+    width: 150px;
+    background-color: #ADA0A2 ;
+    height: 150px;
+    text-align: center;
+}
+.cont{
+    width: 1700px;
+    height: 100px;
+    background-color: #D5CCC7;
+    position: relative;
+    text-align: center;
+    bottom: 160px;
+    left: 150px;
+    border: 1px ;
+    padding: 20px;
+    margin: 15px;
+}
+.roda{
+    background-color: #AC8F83;
+    text-align: center;
+    position: relative;
+    top: 390px;
+}
+
