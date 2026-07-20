@@ -1,0 +1,71 @@
+.card-noticia{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+}
+.botao-ler{
+    padding: 10px, 15px;
+    background-color: #007bff;
+}
+.menu-principal{
+background-color: #333333;
+padding: 12px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+text-decoration: none;
+margin-right: 20px;
+
+}
+.esqcima{
+    position: fixed;
+    top: 0;
+}
+.dircima{
+    position: fixed;
+    top: 0;
+    right: 0;
+
+}
+.esqbaixo{
+    position: fixed;
+    bottom: 0;
+}
+.dirbaixo{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.esc{
+    position: relative;
+    left: 50;
+}
+.none{
+    background-color: green;
+    
+}
+.band{
+    width: 20%;
+    height: 300px;
+    position: relative;
+    background-color: black;
+    
+}
+.band1{
+    width: 20%;
+    height: 300px;
+    position: relative;
+left: 380px;
+bottom: 300px;
+    background-color: yellow;
+}
+.band2{
+    width: 20%;
+    height: 300px;
+    position: relative;
+    left: 760px;
+    bottom: 600px;
+     background-color: black;
+}

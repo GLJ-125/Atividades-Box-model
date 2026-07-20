@@ -1,0 +1,22 @@
+.menu-principal{
+    width: 100%;
+    background-color: #333333;
+    padding: 12px 0;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a{
+    font-family: Arial, sans-serif;
+    color: white;
+    text-decoration: none;
+}

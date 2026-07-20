@@ -1,0 +1,20 @@
+div{
+    width: 180px;
+    height: 80;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+    margin-right: 20px;
+}
+.c1{
+    position: solid;
+}
+.c2{
+    position: dashed;
+}
+.c3{
+    position: dotted;
+}
+.c4{
+    position: double;
+}
